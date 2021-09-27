@@ -1,0 +1,16 @@
+C:\Users\Manoel\CRUD.Produto\obj\Debug\net5.0\CRUD.Produto.csproj.AssemblyReference.cache
+C:\Users\Manoel\CRUD.Produto\obj\Debug\net5.0\CRUD.Produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\CRUD.Produto\obj\Debug\net5.0\CRUD.Produto.AssemblyInfoInputs.cache
+C:\Users\Manoel\CRUD.Produto\obj\Debug\net5.0\CRUD.Produto.AssemblyInfo.cs
+C:\Users\Manoel\CRUD.Produto\obj\Debug\net5.0\CRUD.Produto.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\CRUD.Produto\bin\Debug\net5.0\CRUD.Produto.exe
+C:\Users\Manoel\CRUD.Produto\bin\Debug\net5.0\CRUD.Produto.deps.json
+C:\Users\Manoel\CRUD.Produto\bin\Debug\net5.0\CRUD.Produto.runtimeconfig.json
+C:\Users\Manoel\CRUD.Produto\bin\Debug\net5.0\CRUD.Produto.runtimeconfig.dev.json
+C:\Users\Manoel\CRUD.Produto\bin\Debug\net5.0\CRUD.Produto.dll
+C:\Users\Manoel\CRUD.Produto\bin\Debug\net5.0\ref\CRUD.Produto.dll
+C:\Users\Manoel\CRUD.Produto\bin\Debug\net5.0\CRUD.Produto.pdb
+C:\Users\Manoel\CRUD.Produto\obj\Debug\net5.0\CRUD.Produto.dll
+C:\Users\Manoel\CRUD.Produto\obj\Debug\net5.0\ref\CRUD.Produto.dll
+C:\Users\Manoel\CRUD.Produto\obj\Debug\net5.0\CRUD.Produto.pdb
+C:\Users\Manoel\CRUD.Produto\obj\Debug\net5.0\CRUD.Produto.genruntimeconfig.cache
